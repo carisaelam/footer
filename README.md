@@ -6,4 +6,4 @@ This project is a simple HTML and CSS practice following the Odin Project course
 
 ## Tech:
 
-HTML, CSS.
+HTML, CSS.# footer
